@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3eaeae</color>
+    <color name="colorPrimaryDark">#226e6e</color>
+    <color name="colorAccent">#226e6e</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="fragmentColorBackground">#808080</color>
+    <color name="messageBackground">#e6e6e6</color>
+    <color name="onlineIndicator">#05df29</color>
+    <color name="offlineIndicator">#bfbfbf</color>
+</resources>

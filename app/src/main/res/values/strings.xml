@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">JouChats</string>
+
+    //Register Activity Strings
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="create_account_txt">Create a new account</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+
+    //LogIn Activity Strings
+    <string name="login_account_txt">Sign-in your account</string>
+
+    //Main Activity Strings
+    <string name="logout_menu_item">Logout</string>
+    <string name="home_nav_btn_title">Home</string>
+    <string name="user_nav_btn_title">User Profile</string>
+
+    //Start Activity Strings
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+
+    //Message Activity Strings
+    <string name="type_message_hint">Type a message...</string>
+
+    //Users Fragment
+    <string name="search_hint">Search...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
