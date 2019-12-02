@@ -65,10 +65,6 @@ public class ChatsFragment extends Fragment
                 {
                     Chat chat = snapshot.getValue(Chat.class);
 
-                    if (chat.getSender().equals(fuser.getUid()))
-                    {
-                        usersList.add(chat.getReceiver());
-                    }
                     if (chat.getReceiver().equals(fuser.getUid()))
                     {
                         usersList.add(chat.getSender());
